@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=YituHealthcare&repo=Arc&show_owner=true)](https://github.com/LINGyue-dot/yunshang)
+[![Focus Repo](https://github-readme-stats.vercel.app/api/pin/?username=LINGyue-dot&repo=yunshang&show_owner=true)](https://github.com/LINGyue-dot/yunshang)
+
 
 
